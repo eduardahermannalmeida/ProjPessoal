@@ -1,0 +1,180 @@
+
+#sobre{
+
+    display: flex;
+    gap: 20px;
+
+}
+
+
+#linha {
+    width: 100%;
+    border-bottom: 1px solid var(--color-primary-9);
+  }
+
+.title {
+
+    font-family: "Chakra Petch", sans-serif;
+    font-size: 35px;
+    color: var(--color-primary-8);
+
+}
+
+.subtitle {
+
+    font-family: "Chakra Petch", sans-serif;
+    font-size: 20px;
+    color: var(--color-primary-10);
+
+}
+
+
+.text {
+
+    font-family: "Quicksand", sans-serif;
+    color: var(--color-primary-9);
+    background-color: var(--color-primary-7);
+    border-radius: 100px;
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    list-style: square;
+
+}
+
+#personagem {
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+
+}
+
+
+#miles {
+
+    color: #681620;
+    margin-left: 60px;
+    text-shadow: 2px 2px #101623;
+
+}
+
+#milesm {
+
+    font-size: 25px;
+    box-shadow:
+        3px 3px #d3282b,
+        -0.70em 0 #a52023;
+
+}
+
+#gwen {
+
+    margin-left: 70px;
+    color: #ddd4e8;
+    text-shadow: 2px 2px #000000;
+
+}
+
+#gwens {
+
+    font-size: 22px;
+    box-shadow:
+        3px 3px #c53a76,
+        -0.70em 0 #3cb7ba;
+
+
+
+}
+
+#peterb {
+
+    margin-left: 50px;
+    color: #702525;
+    text-shadow: 2px 2px #351414;
+
+}
+
+#peterbp {
+
+    font-size: 21px;
+    box-shadow:
+        3px 3px #d3282b,
+        -0.70em 0 #3328d3;
+
+
+}
+
+#noir {
+
+
+    margin-left: 7px;
+    color: #e9e9e9;
+    text-shadow: 2px 2px #131313;
+
+
+}
+
+#snoir {
+
+
+    font-size: 26px;
+    box-shadow:
+        3px 3px #e9e9e9,
+        -0.70em 0 #6e6e6e;
+
+}
+
+#peni {
+
+    margin-left: 80px;
+    color: #000000;
+    text-shadow: 2px 2px #0a595c;
+
+}
+
+#penip {
+
+
+    font-size: 19px;
+    box-shadow:
+        3px 3px  rgb(11, 233, 185),
+        -0.70em 0 #00d3b0;
+
+
+}
+
+#ham {
+
+    margin-left: 65px;
+    color: #702525;
+    text-shadow: 2px 2px #351414 ;
+
+
+}
+
+#sham {
+
+
+    font-size: 23px;
+    box-shadow:
+        3px 3px #3328d3,
+        -0.70em 0 #d3282b;
+
+}
+
+.container {
+
+    display: flex;
+    gap: 30px;
+
+}
+
+.imagem {
+    display: block;
+    margin-bottom: 10px;
+    margin: 0 auto;
+
+}
