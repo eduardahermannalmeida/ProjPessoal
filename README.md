@@ -10,13 +10,15 @@ e inovação. No site é possível encontrar informações do filme como: Sínop
 Desenvolvedor(a): @eduardahermannalmeida 
 
 Linguagens:
+
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 Software:
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-Ícones:
+- Ícones:
 
 https://www.iconfinder.com
 
